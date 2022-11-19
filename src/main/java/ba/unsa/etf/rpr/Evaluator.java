@@ -2,6 +2,7 @@ package ba.unsa.etf.rpr;
 
 /**
  * Klasa koja sluzi za sve provjere ispravnosti ulaza te rasterecuje citljivost klase ExpressionEvaluator
+ * sastoji se od glavne klase unutar koje pozivamo sve provjere
  */
 public class Evaluator {
     private String ulaz;

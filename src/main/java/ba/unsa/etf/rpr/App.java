@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Homework 1, RPR
  * @author Hanka Musinbegovic, 18821
- * main klasa koja parsira ulaz s konzole
+ * main klasa koja parsira ulaz s konzole i ispisuje izuzetak
  */
 public class App 
 {

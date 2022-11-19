@@ -1,6 +1,10 @@
 package ba.unsa.etf.rpr;
 import java.util.Stack;
 
+/**
+ * Klasa ExpressionEvaluator sa dva stacka kao atributa te dvije metode
+ */
+
 public class ExpressionEvaluator {
     private Stack<String> operatori  = new Stack<String>();
     private Stack<Double> brojevi = new Stack<Double>();

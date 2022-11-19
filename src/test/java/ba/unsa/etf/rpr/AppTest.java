@@ -10,7 +10,7 @@ import static org.junit.Assert.assertTrue;
 public class AppTest 
 {
     /**
-     * Rigorous Test :-)
+     * Tezak test :-)
      */
     @Test
     public void shouldAnswerWithTrue()

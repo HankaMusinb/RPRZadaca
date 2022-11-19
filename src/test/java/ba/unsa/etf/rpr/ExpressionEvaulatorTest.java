@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class ExpressionEvaulatorTest {
     /**
-     * minimalno pet unit testova
+     * Uslov: 5 testova
      */
     @Test
     public void ispitajIzraz(){
